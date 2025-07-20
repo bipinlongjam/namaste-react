@@ -1,0 +1,27 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "This is namaste react by Akshay Saini",
+  "keywords": [],
+  "homepage": "https://github.com/bipinlongjam/namaste-react#readme",
+  "bugs": {
+    "url": "https://github.com/bipinlongjam/namaste-react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bipinlongjam/namaste-react.git"
+  },
+  "license": "ISC",
+  "author": "Bipin Longjam",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
